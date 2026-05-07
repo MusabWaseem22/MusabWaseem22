@@ -77,7 +77,7 @@ I use full-stack tools when the product needs them; my core strength is **ML + a
 
 ## 🤝 Let's Connect
 
-- **Email:** [musab.waseem22@gmail.com](mailto:musab.waseem22@gmail.com)
+- **Email:** musab.waseem22@gmail.com
 - **LinkedIn:** [musab-waseem-7947613bb](https://www.linkedin.com/in/musab-waseem-7947613bb/)
 
 <p align="center">

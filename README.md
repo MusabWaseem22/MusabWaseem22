@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Musab_Waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musab-waseem-7947613bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-MusabWaseem22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MusabWaseem22)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MusabWaseem22&label=Profile+views&color=0e75b6&style=flat)](https://github.com/MusabWaseem22)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMusabWaseem22&query=%24.public_repos&label=public%20repos&logo=github&color=181717)](https://github.com/MusabWaseem22?tab=repositories)
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36" height="36" alt="wave" />
